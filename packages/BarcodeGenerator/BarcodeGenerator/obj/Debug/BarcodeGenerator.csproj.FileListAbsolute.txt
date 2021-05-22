@@ -1,0 +1,54 @@
+D:\DuLieu\Desktop\Hackathon\Main Data\BarcodeGenerator\BarcodeGenerator\bin\Debug\BarcodeGenerator.exe.config
+D:\DuLieu\Desktop\Hackathon\Main Data\BarcodeGenerator\BarcodeGenerator\bin\Debug\BarcodeGenerator.exe.manifest
+D:\DuLieu\Desktop\Hackathon\Main Data\BarcodeGenerator\BarcodeGenerator\bin\Debug\BarcodeGenerator.application
+D:\DuLieu\Desktop\Hackathon\Main Data\BarcodeGenerator\BarcodeGenerator\bin\Debug\BarcodeGenerator.exe
+D:\DuLieu\Desktop\Hackathon\Main Data\BarcodeGenerator\BarcodeGenerator\bin\Debug\BarcodeGenerator.pdb
+D:\DuLieu\Desktop\Hackathon\Main Data\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.csprojAssemblyReference.cache
+D:\DuLieu\Desktop\Hackathon\Main Data\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeLibTest.TestApp.resources
+D:\DuLieu\Desktop\Hackathon\Main Data\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeLibTest.Properties.Resources.resources
+D:\DuLieu\Desktop\Hackathon\Main Data\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.csproj.GenerateResource.cache
+D:\DuLieu\Desktop\Hackathon\Main Data\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.csproj.CoreCompileInputs.cache
+D:\DuLieu\Desktop\Hackathon\Main Data\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.exe.manifest
+D:\DuLieu\Desktop\Hackathon\Main Data\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.application
+D:\DuLieu\Desktop\Hackathon\Main Data\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.exe
+D:\DuLieu\Desktop\Hackathon\Main Data\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.pdb
+C:\Users\HP\Desktop\Hackathon2019\packages\BarcodeGenerator\BarcodeGenerator\bin\Debug\BarcodeGenerator.exe.config
+C:\Users\HP\Desktop\Hackathon2019\packages\BarcodeGenerator\BarcodeGenerator\bin\Debug\BarcodeGenerator.exe.manifest
+C:\Users\HP\Desktop\Hackathon2019\packages\BarcodeGenerator\BarcodeGenerator\bin\Debug\BarcodeGenerator.application
+C:\Users\HP\Desktop\Hackathon2019\packages\BarcodeGenerator\BarcodeGenerator\bin\Debug\BarcodeGenerator.exe
+C:\Users\HP\Desktop\Hackathon2019\packages\BarcodeGenerator\BarcodeGenerator\bin\Debug\BarcodeGenerator.pdb
+C:\Users\HP\Desktop\Hackathon2019\packages\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Hackathon2019\packages\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeLibTest.TestApp.resources
+C:\Users\HP\Desktop\Hackathon2019\packages\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeLibTest.Properties.Resources.resources
+C:\Users\HP\Desktop\Hackathon2019\packages\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Hackathon2019\packages\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.exe.manifest
+C:\Users\HP\Desktop\Hackathon2019\packages\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.application
+C:\Users\HP\Desktop\Hackathon2019\packages\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.exe
+C:\Users\HP\Desktop\Hackathon2019\packages\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.pdb
+C:\Users\HP\Desktop\Hackathon\packages\BarcodeGenerator\BarcodeGenerator\bin\Debug\BarcodeGenerator.exe.config
+C:\Users\HP\Desktop\Hackathon\packages\BarcodeGenerator\BarcodeGenerator\bin\Debug\BarcodeGenerator.exe.manifest
+C:\Users\HP\Desktop\Hackathon\packages\BarcodeGenerator\BarcodeGenerator\bin\Debug\BarcodeGenerator.application
+C:\Users\HP\Desktop\Hackathon\packages\BarcodeGenerator\BarcodeGenerator\bin\Debug\BarcodeGenerator.exe
+C:\Users\HP\Desktop\Hackathon\packages\BarcodeGenerator\BarcodeGenerator\bin\Debug\BarcodeGenerator.pdb
+C:\Users\HP\Desktop\Hackathon\packages\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Hackathon\packages\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeLibTest.TestApp.resources
+C:\Users\HP\Desktop\Hackathon\packages\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeLibTest.Properties.Resources.resources
+C:\Users\HP\Desktop\Hackathon\packages\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Hackathon\packages\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.exe.manifest
+C:\Users\HP\Desktop\Hackathon\packages\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.application
+C:\Users\HP\Desktop\Hackathon\packages\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.exe
+C:\Users\HP\Desktop\Hackathon\packages\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.pdb
+C:\Users\KT\Desktop\Hackathon2019\packages\BarcodeGenerator\BarcodeGenerator\bin\Debug\BarcodeGenerator.exe.config
+C:\Users\KT\Desktop\Hackathon2019\packages\BarcodeGenerator\BarcodeGenerator\bin\Debug\BarcodeGenerator.exe.manifest
+C:\Users\KT\Desktop\Hackathon2019\packages\BarcodeGenerator\BarcodeGenerator\bin\Debug\BarcodeGenerator.application
+C:\Users\KT\Desktop\Hackathon2019\packages\BarcodeGenerator\BarcodeGenerator\bin\Debug\BarcodeGenerator.exe
+C:\Users\KT\Desktop\Hackathon2019\packages\BarcodeGenerator\BarcodeGenerator\bin\Debug\BarcodeGenerator.pdb
+C:\Users\KT\Desktop\Hackathon2019\packages\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.csprojAssemblyReference.cache
+C:\Users\KT\Desktop\Hackathon2019\packages\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeLibTest.TestApp.resources
+C:\Users\KT\Desktop\Hackathon2019\packages\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeLibTest.Properties.Resources.resources
+C:\Users\KT\Desktop\Hackathon2019\packages\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.csproj.GenerateResource.cache
+C:\Users\KT\Desktop\Hackathon2019\packages\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\KT\Desktop\Hackathon2019\packages\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.exe.manifest
+C:\Users\KT\Desktop\Hackathon2019\packages\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.application
+C:\Users\KT\Desktop\Hackathon2019\packages\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.exe
+C:\Users\KT\Desktop\Hackathon2019\packages\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.pdb

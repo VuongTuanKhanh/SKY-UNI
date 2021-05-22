@@ -1,0 +1,59 @@
+CREATE  database Hackathon
+
+GO
+
+use Hackathon
+
+GO
+
+CREATE TABLE Account
+(
+	Username INT PRIMARY KEY,
+	Password VARCHAR(50) NOT NULL,
+	Gmail VARCHAR(50),
+)
+
+GO
+
+CREATE FUNCTION Login(@Username nvarchar(50), @Password nvarchar(50)) returns BIT AS
+BEGIN
+	declare @any_rows_found INT
+	select @any_rows_found = count(*) from Account where Username = @Username AND Password = @Password
+	return @any_rows_found
+END
+
+GO
+
+CREATE FUNCTION take_Gmail(@Username nvarchar(50)) RETURNS VARCHAR(50) AS
+BEGIN
+	DECLARE @Gmail_Result NVARCHAR(50)
+	SELECT @Gmail_Result = Gmail FROM Account WHERE Username = @Username
+	RETURN @Gmail_Result
+END
+
+GO
+
+CREATE PROCEDURE New_Account @Username varchar(50), @Password varchar(50), @Gmail varchar(50)AS
+BEGIN
+	INSERT INTO Account VALUES(@Username, @Password, @Gmail);
+END
+
+GO
+
+CREATE FUNCTION Check_Username(@Username nvarchar(50)) RETURNS BIT AS
+BEGIN
+	declare @any_rows_found INT
+	select @any_rows_found = count(*) from Account where Username = @Username
+	if @any_rows_found = 1
+		RETURN 1
+	RETURN 0
+END
+
+GO
+
+CREATE FUNCTION Login_Scanner(@Username nvarchar(50)) returns BIT AS
+BEGIN
+	declare @any_rows_found INT
+	select @any_rows_found = count(*) from Account where Username = @Username
+	return @any_rows_found
+END

@@ -1,0 +1,97 @@
+C:\Users\HP\Desktop\Hackathon-Version-1\Hackathon\Main Data\FaceDetection-FaceRecognitionCs\bin\MultiFaceRec.exe.config
+C:\Users\HP\Desktop\Hackathon-Version-1\Hackathon\Main Data\FaceDetection-FaceRecognitionCs\bin\MultiFaceRec.exe
+C:\Users\HP\Desktop\Hackathon-Version-1\Hackathon\Main Data\FaceDetection-FaceRecognitionCs\bin\MultiFaceRec.pdb
+C:\Users\HP\Desktop\Hackathon-Version-1\Hackathon\Main Data\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Hackathon-Version-1\Hackathon\Main Data\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.Gmail_Form.resources
+C:\Users\HP\Desktop\Hackathon-Version-1\Hackathon\Main Data\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\HP\Desktop\Hackathon-Version-1\Hackathon\Main Data\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\HP\Desktop\Hackathon-Version-1\Hackathon\Main Data\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Hackathon-Version-1\Hackathon\Main Data\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\HP\Desktop\Hackathon-Version-1\Hackathon\Main Data\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\HP\Desktop\Hackathon-Version-1\Hackathon\Main Data\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\HP\Desktop\Hackathon2019\packages\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.Gmail_Form.resources
+C:\Users\HP\Desktop\Hackathon2019\packages\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\HP\Desktop\Hackathon2019\packages\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\HP\Desktop\Hackathon2019\packages\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Hackathon2019\packages\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\HP\Desktop\Hackathon2019\packages\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\HP\Desktop\Hackathon2019\packages\FaceDetection-FaceRecognitionCs\bin\MultiFaceRec.exe.config
+C:\Users\HP\Desktop\Hackathon2019\packages\FaceDetection-FaceRecognitionCs\bin\MultiFaceRec.exe
+C:\Users\HP\Desktop\Hackathon2019\packages\FaceDetection-FaceRecognitionCs\bin\MultiFaceRec.pdb
+C:\Users\HP\Desktop\Hackathon2019\packages\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\HP\Desktop\Hackathon2019\packages\FaceDetection-FaceRecognitionCs\bin\WebDriver.dll
+C:\Users\HP\Desktop\Hackathon2019\packages\FaceDetection-FaceRecognitionCs\bin\WebDriver.xml
+C:\Users\HP\Desktop\FaceDetection-FaceRecognitionCs\bin\MultiFaceRec.exe.config
+C:\Users\HP\Desktop\FaceDetection-FaceRecognitionCs\bin\MultiFaceRec.exe
+C:\Users\HP\Desktop\FaceDetection-FaceRecognitionCs\bin\MultiFaceRec.pdb
+C:\Users\HP\Desktop\FaceDetection-FaceRecognitionCs\bin\WebDriver.dll
+C:\Users\HP\Desktop\FaceDetection-FaceRecognitionCs\bin\WebDriver.xml
+C:\Users\HP\Desktop\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.Gmail_Form.resources
+C:\Users\HP\Desktop\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\HP\Desktop\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\HP\Desktop\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\HP\Desktop\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\HP\Desktop\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\HP\Desktop\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Hackathon2019\packages\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\FaceDetection-FaceRecognitionCs (1)\FaceDetection-FaceRecognitionCs\bin\MultiFaceRec.exe.config
+C:\Users\Admin\Desktop\FaceDetection-FaceRecognitionCs (1)\FaceDetection-FaceRecognitionCs\bin\MultiFaceRec.exe
+C:\Users\Admin\Desktop\FaceDetection-FaceRecognitionCs (1)\FaceDetection-FaceRecognitionCs\bin\MultiFaceRec.pdb
+C:\Users\Admin\Desktop\FaceDetection-FaceRecognitionCs (1)\FaceDetection-FaceRecognitionCs\bin\WebDriver.dll
+C:\Users\Admin\Desktop\FaceDetection-FaceRecognitionCs (1)\FaceDetection-FaceRecognitionCs\bin\WebDriver.xml
+C:\Users\Admin\Desktop\FaceDetection-FaceRecognitionCs (1)\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\FaceDetection-FaceRecognitionCs (1)\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.Gmail_Form.resources
+C:\Users\Admin\Desktop\FaceDetection-FaceRecognitionCs (1)\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Admin\Desktop\FaceDetection-FaceRecognitionCs (1)\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Admin\Desktop\FaceDetection-FaceRecognitionCs (1)\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.Search.resources
+C:\Users\Admin\Desktop\FaceDetection-FaceRecognitionCs (1)\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\FaceDetection-FaceRecognitionCs (1)\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\FaceDetection-FaceRecognitionCs (1)\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\Admin\Desktop\FaceDetection-FaceRecognitionCs (1)\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Admin\Desktop\FaceDetection-FaceRecognitionCs (1)\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tran Long\Desktop\FaceDetection-FaceRecognitionCs (1)\FaceDetection-FaceRecognitionCs (1)\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\Tran Long\Desktop\FaceDetection-FaceRecognitionCs (1)\FaceDetection-FaceRecognitionCs (1)\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.Gmail_Form.resources
+C:\Users\Tran Long\Desktop\FaceDetection-FaceRecognitionCs (1)\FaceDetection-FaceRecognitionCs (1)\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Tran Long\Desktop\FaceDetection-FaceRecognitionCs (1)\FaceDetection-FaceRecognitionCs (1)\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Tran Long\Desktop\FaceDetection-FaceRecognitionCs (1)\FaceDetection-FaceRecognitionCs (1)\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.Search.resources
+C:\Users\Tran Long\Desktop\FaceDetection-FaceRecognitionCs (1)\FaceDetection-FaceRecognitionCs (1)\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Tran Long\Desktop\FaceDetection-FaceRecognitionCs (1)\FaceDetection-FaceRecognitionCs (1)\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Tran Long\Desktop\FaceDetection-FaceRecognitionCs (1)\FaceDetection-FaceRecognitionCs (1)\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Tran Long\Desktop\FaceDetection-FaceRecognitionCs (1)\FaceDetection-FaceRecognitionCs (1)\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Tran Long\Desktop\FaceDetection-FaceRecognitionCs (1)\FaceDetection-FaceRecognitionCs (1)\FaceDetection-FaceRecognitionCs\bin\MultiFaceRec.exe.config
+C:\Users\Tran Long\Desktop\FaceDetection-FaceRecognitionCs (1)\FaceDetection-FaceRecognitionCs (1)\FaceDetection-FaceRecognitionCs\bin\MultiFaceRec.exe
+C:\Users\Tran Long\Desktop\FaceDetection-FaceRecognitionCs (1)\FaceDetection-FaceRecognitionCs (1)\FaceDetection-FaceRecognitionCs\bin\MultiFaceRec.pdb
+C:\Users\Tran Long\Desktop\FaceDetection-FaceRecognitionCs (1)\FaceDetection-FaceRecognitionCs (1)\FaceDetection-FaceRecognitionCs\bin\WebDriver.dll
+C:\Users\Tran Long\Desktop\FaceDetection-FaceRecognitionCs (1)\FaceDetection-FaceRecognitionCs (1)\FaceDetection-FaceRecognitionCs\bin\WebDriver.xml
+C:\Users\Tran Long\Desktop\FaceDetection-FaceRecognitionCs (1)\FaceDetection-FaceRecognitionCs (1)\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\HP\Desktop\FaceDetection-FaceRecognitionCs\bin\Bing Translator.exe
+C:\Users\HP\Desktop\FaceDetection-FaceRecognitionCs\bin\Bing Translator.pdb
+C:\Users\HP\Desktop\FaceDetection-FaceRecognitionCs\bin\Bing Translator.exe.config
+C:\Users\HP\Desktop\Hackathon\packages\FaceDetection-FaceRecognitionCs\bin\MultiFaceRec.exe.config
+C:\Users\HP\Desktop\Hackathon\packages\FaceDetection-FaceRecognitionCs\bin\MultiFaceRec.exe
+C:\Users\HP\Desktop\Hackathon\packages\FaceDetection-FaceRecognitionCs\bin\MultiFaceRec.pdb
+C:\Users\HP\Desktop\Hackathon\packages\FaceDetection-FaceRecognitionCs\bin\WebDriver.dll
+C:\Users\HP\Desktop\Hackathon\packages\FaceDetection-FaceRecognitionCs\bin\WebDriver.xml
+C:\Users\HP\Desktop\Hackathon\packages\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Hackathon\packages\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.Gmail_Form.resources
+C:\Users\HP\Desktop\Hackathon\packages\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\HP\Desktop\Hackathon\packages\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\HP\Desktop\Hackathon\packages\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Hackathon\packages\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
+C:\Users\HP\Desktop\Hackathon\packages\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\HP\Desktop\Hackathon\packages\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\KT\Desktop\Hackathon2019\packages\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.csprojAssemblyReference.cache
+C:\Users\KT\Desktop\Hackathon2019\packages\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.Gmail_Form.resources
+C:\Users\KT\Desktop\Hackathon2019\packages\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\KT\Desktop\Hackathon2019\packages\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\KT\Desktop\Hackathon2019\packages\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\KT\Desktop\Hackathon2019\packages\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.csproj.CoreCompileInputs.cache
+C:\Users\KT\Desktop\Hackathon2019\packages\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\KT\Desktop\Hackathon2019\packages\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\KT\Desktop\Hackathon2019\packages\FaceDetection-FaceRecognitionCs\bin\MultiFaceRec.exe.config
+C:\Users\KT\Desktop\Hackathon2019\packages\FaceDetection-FaceRecognitionCs\bin\MultiFaceRec.exe
+C:\Users\KT\Desktop\Hackathon2019\packages\FaceDetection-FaceRecognitionCs\bin\MultiFaceRec.pdb
+C:\Users\KT\Desktop\Hackathon2019\packages\FaceDetection-FaceRecognitionCs\bin\WebDriver.dll
+C:\Users\KT\Desktop\Hackathon2019\packages\FaceDetection-FaceRecognitionCs\bin\WebDriver.xml
+C:\Users\KT\Desktop\Hackathon2019\packages\FaceDetection-FaceRecognitionCs\obj\x86\Debug\MultiFaceRec.csproj.CopyComplete
